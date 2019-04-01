@@ -1,8 +1,9 @@
 # Tasks
 ## Blockers
   1) "Stecker" (plugboard) needs implemented
-  2) Actual driver code needs implemented
-  3) GUI
+  2) Settable "tire" positions (ie: the indicator wheel can be set independent of the wiring)
+  3) Actual driver code needs implemented
+  4) GUI
 ## Nice To Have
   1) Naval Enigma
   2) "Rocket"/"Railway"
